@@ -38,14 +38,14 @@ page-break-after:always; }
 
 .jquery-lightbox-border-top-left
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat 0 0;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat 0 0;
   top:0;
   left:0;
 }
 
 .jquery-lightbox-border-top-right
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat right 0;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat right 0;
   top:0;
   right:0;
 }
@@ -64,14 +64,14 @@ page-break-after:always; }
 
 .jquery-lightbox-border-bottom-left
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat 0 bottom;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat 0 bottom;
   bottom:0;
   left:0;
 }
 
 .jquery-lightbox-border-bottom-right
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat right bottom;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat right bottom;
   bottom:0;
   right:0;
 }
@@ -164,12 +164,12 @@ page-break-after:always; }
 .jquery-lightbox-loading,
 .jquery-lightbox-mode-html .jquery-lightbox-loading
 {
-  background:#FFFFFF url(http://2.bp.blogspot.com/-Fux_YZgfTXQ/UrWx4CK5huI/AAAAAAAAGNM/AkMsQoiMahE/s1600/loading.gif) no-repeat center center;
+  background:#FFFFFF url(https://2.bp.blogspot.com/-Fux_YZgfTXQ/UrWx4CK5huI/AAAAAAAAGNM/AkMsQoiMahE/s1600/loading.gif) no-repeat center center;
 }
 
 .jquery-lightbox-button-close
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -190px -115px;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -190px -115px;
   position:absolute;
   top:12px;
   right:-26px;
@@ -179,7 +179,7 @@ page-break-after:always; }
 
 .jquery-lightbox-button-close:hover
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -220px -115px;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -220px -115px;
 }
 
 .jquery-lightbox-button-close span,
@@ -215,19 +215,19 @@ page-break-after:always; }
 
 .jquery-lightbox-buttons .jquery-lightbox-buttons-init
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -151px -153px;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -151px -153px;
   margin:7px 0 0 7px;
 }
 
 .jquery-lightbox-buttons .jquery-lightbox-buttons-end
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -244px -153px;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -244px -153px;
   margin:7px 0 0 0;
 }
 
 .jquery-lightbox-buttons .jquery-lightbox-button-left
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -156px -153px;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -156px -153px;
   width:24px;
   height:39px;
   float:left;
@@ -237,13 +237,13 @@ page-break-after:always; }
 
 .jquery-lightbox-buttons .jquery-lightbox-button-left:hover
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -156px -194px;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -156px -194px;
 }
 
 
 .jquery-lightbox-buttons .jquery-lightbox-button-right
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -220px -153px;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -220px -153px;
   width:24px;
   height:39px;
   float:left;
@@ -253,13 +253,13 @@ page-break-after:always; }
 
 .jquery-lightbox-buttons .jquery-lightbox-button-right:hover
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -220px -194px;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -220px -194px;
 }
 
 
 .jquery-lightbox-buttons .jquery-lightbox-button-max
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -182px -153px;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -182px -153px;
   width:36px;
   height:39px;
   float:left;
@@ -269,13 +269,13 @@ page-break-after:always; }
 
 .jquery-lightbox-buttons .jquery-lightbox-button-max:hover
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -182px -194px;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -182px -194px;
 }
 
 
 .jquery-lightbox-buttons .jquery-lightbox-button-min
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -162px -235px;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -162px -235px;
   width:36px;
   height:39px;
   float:left;
@@ -285,7 +285,7 @@ page-break-after:always; }
 
 .jquery-lightbox-buttons .jquery-lightbox-button-min:hover
 {
-  background: url(http://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -207px -235px;
+  background: url(https://3.bp.blogspot.com/-XPfMjWyAtbM/UrWwg9cBHuI/AAAAAAAAGNA/XSeXzRQ84e8/s1600/jquery-lightbox-theme.png) no-repeat -207px -235px;
 }
 
 
